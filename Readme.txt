@@ -1,1 +1,1 @@
-Euler
+Project Euler (https://projecteuler.net/) provids good practice problems for developers. These problems are focused on numerical calculations. I have used FORTRAN to solve these problems.
